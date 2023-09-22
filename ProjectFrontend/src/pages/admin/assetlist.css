@@ -1,0 +1,4 @@
+.scrolling {
+    max-height: 200px; /* set a maximum height */
+    overflow-y: auto; /* add a vertical scrollbar when content overflows */
+  }
